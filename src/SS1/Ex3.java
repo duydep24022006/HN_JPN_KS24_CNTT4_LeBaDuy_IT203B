@@ -11,15 +11,16 @@ public class Ex3 {
         user.setAge(age);
         System.out.println("Tuổi đã lưu: "+user.getAge());
         sc.close();
-
     }
     private int age;
+
     public void setAge(int age){
         if(age<0){
             throw new IllegalArgumentException("Tuổi không thể âm!");
         }
         this.age = age;
     }
+
     public int getAge() {
         return age;
     }

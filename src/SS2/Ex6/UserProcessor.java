@@ -1,0 +1,6 @@
+package SS2.Ex6;
+
+@FunctionalInterface
+public interface UserProcessor {
+    String process(User u);
+}

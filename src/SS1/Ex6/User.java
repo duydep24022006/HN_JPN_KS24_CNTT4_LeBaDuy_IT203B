@@ -12,7 +12,6 @@ public class User {
 
     public void setName(String name) {
 
-        // Defensive Programming
         if (name != null && !name.trim().isEmpty()) {
             this.name = name;
         } else {
@@ -32,7 +31,6 @@ public class User {
 
     public void printUser() {
 
-        // tránh NullPointerException bằng if
         if (name != null) {
             System.out.println("Tên: " + name);
         } else {

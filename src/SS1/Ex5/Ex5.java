@@ -10,7 +10,5 @@ public class Ex5 {
             System.out.println("Lỗi nghiệp vụ: " + e.getMessage());
             e.printStackTrace();
         }
-
     }
-
 }

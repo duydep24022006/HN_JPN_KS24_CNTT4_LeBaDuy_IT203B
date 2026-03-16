@@ -1,0 +1,19 @@
+package SS7.Ex5.repository;
+
+import SS7.Ex5.model.Order;
+
+import java.util.*;
+
+public class FileOrderRepository implements OrderRepository {
+
+    private List<Order> orders=new ArrayList<>();
+
+    public void save(Order order){
+        orders.add(order);
+        System.out.println("Đã lưu đơn hàng "+order.getId());
+    }
+
+    public List<Order> findAll(){
+        return orders;
+    }
+}

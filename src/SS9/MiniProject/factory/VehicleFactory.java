@@ -1,7 +1,9 @@
-package SS9.factory;
+package SS9.MiniProject.factory;
 
-import SS9.entity.*;
-import SS9.engine.Intersection;
+import SS9.MiniProject.engine.Intersection;
+import SS9.MiniProject.entity.PriorityVehicle;
+import SS9.MiniProject.entity.StandardVehicle;
+import SS9.MiniProject.entity.Vehicle;
 
 import java.util.Random;
 

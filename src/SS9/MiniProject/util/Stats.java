@@ -1,4 +1,4 @@
-package SS9.util;
+package SS9.MiniProject.util;
 
 import java.util.concurrent.atomic.AtomicInteger;
 

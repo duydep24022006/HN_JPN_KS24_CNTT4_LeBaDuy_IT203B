@@ -1,4 +1,4 @@
-package SS9.pattern;
+package SS9.MiniProject.pattern;
 
 public interface Observer {
     void update(TrafficLightState state);

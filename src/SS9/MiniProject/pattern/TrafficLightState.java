@@ -1,4 +1,4 @@
-package SS9.pattern;
+package SS9.MiniProject.pattern;
 
 public interface TrafficLightState {
     String getName();

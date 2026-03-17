@@ -1,6 +1,6 @@
-package SS9.entity;
+package SS9.MiniProject.entity;
 
-import SS9.engine.Intersection;
+import SS9.MiniProject.engine.Intersection;
 
 public class StandardVehicle extends Vehicle {
 

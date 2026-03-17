@@ -1,6 +1,6 @@
-package SS9.engine;
+package SS9.MiniProject.engine;
 
-import SS9.pattern.*;
+import SS9.MiniProject.pattern.*;
 
 import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;

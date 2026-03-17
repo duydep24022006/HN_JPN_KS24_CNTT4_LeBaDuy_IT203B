@@ -1,8 +1,8 @@
-package SS9;
+package SS9.MiniProject;
 
-import SS9.engine.*;
-import SS9.factory.VehicleFactory;
-import SS9.entity.Vehicle;
+import SS9.MiniProject.engine.*;
+import SS9.MiniProject.entity.Vehicle;
+import SS9.MiniProject.factory.VehicleFactory;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

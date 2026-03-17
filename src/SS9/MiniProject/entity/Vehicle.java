@@ -1,8 +1,8 @@
-package SS9.entity;
+package SS9.MiniProject.entity;
 
-import SS9.engine.Intersection;
-import SS9.pattern.Observer;
-import SS9.pattern.TrafficLightState;
+import SS9.MiniProject.engine.Intersection;
+import SS9.MiniProject.pattern.Observer;
+import SS9.MiniProject.pattern.TrafficLightState;
 
 public abstract class Vehicle implements Runnable, Observer {
 

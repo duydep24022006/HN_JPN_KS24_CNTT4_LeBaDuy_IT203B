@@ -1,7 +1,7 @@
-package SS9.engine;
+package SS9.MiniProject.engine;
 
-import SS9.entity.Vehicle;
-import SS9.exception.TrafficJamException;
+import SS9.MiniProject.entity.Vehicle;
+import SS9.MiniProject.exception.TrafficJamException;
 
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;

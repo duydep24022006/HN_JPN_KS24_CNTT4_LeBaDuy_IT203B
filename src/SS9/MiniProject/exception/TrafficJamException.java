@@ -1,4 +1,4 @@
-package SS9.exception;
+package SS9.MiniProject.exception;
 
 public class TrafficJamException extends Exception {
     public TrafficJamException(String msg) {

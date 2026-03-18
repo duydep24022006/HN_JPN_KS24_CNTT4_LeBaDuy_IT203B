@@ -36,13 +36,17 @@ public class TrafficLight implements Subject, Runnable {
     public void run() {
         try {
             while (true) {
+
                 setState(new GreenState());
+                System.out.println("LIGHT: GREEN");
                 Thread.sleep(3000);
 
                 setState(new YellowState());
+                System.out.println("LIGHT: YELLOW");
                 Thread.sleep(1000);
 
                 setState(new RedState());
+                System.out.println("LIGHT: RED");
                 Thread.sleep(3000);
             }
         } catch (InterruptedException e) {

@@ -19,7 +19,6 @@ public class VehicleFactory {
         String id = "Vehicle-" + counter++;
 
         switch (type) {
-            case 0:
             case 1:
                 return new StandardVehicle(id, intersection);
             case 2:

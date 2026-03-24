@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e3f1c490-4dce-49fd-b3d0-fe66ce0c042b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/Bed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/Doctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/Medicine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/repository/BedDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/repository/DoctorDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/repository/MedicineDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/repository/PatientDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utility/DBContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson1/DBContext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson1/TestDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson2/MedicineDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson3/BedDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson4/PatientDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson5/business/DoctorService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson5/dao/DoctorDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson5/model/Doctor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson5/presentation/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS12/session12/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS12/session12/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS12/session12/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS12/session12/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS12/session12/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS12/session12/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS12/session12/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS12/session12/src/main/java/demo/conmon/DBUtility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS12/session12/src/main/java/lesson1/DoctorLogin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS12/session12/src/main/java/lesson1/PhanTich" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS12/session12/src/main/java/lesson2/PhanTich" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS12/session12/src/main/java/lesson2/UpdateVitalSigns.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS12/session12/src/main/java/lesson3/PhanTich" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS12/session12/src/main/java/lesson3/SurgeryFee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS12/session12/src/main/java/lesson4/PhanTich" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS12/session12/src/main/java/lesson4/TestBatch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS12/session12/src/main/java/lesson4/TestPreparedStatement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS12/session12/src/main/java/lesson5/HospitalManagement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS12/session12/src/main/java/org/example/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="10" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "duydep24022006"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/duydep24022006/HN_JPN_KS24_CNTT4_LeBaDuy_IT203B.git",
+    "accountId": "119c4add-cda5-4ab3-80cc-39f596ab0ef7"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3BNw9vpRLV7kR7GQHDhPL8noJbo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.ss11 [:main.Main.main()].executor": "Run",
+    "Gradle.ss11 [:org.example.Main.main()].executor": "Run",
+    "Gradle.ss11 [:utility.DBContext.main()].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/LENOVO/IdeaProjects/IT203B/src/SS11/ss11/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql_aurora"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\IdeaProjects\IT203B\src\SS11\ss11\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.main.Main">
+    <configuration name="DBContext" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="utility.DBContext" />
+      <module name="ss11.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="ss11.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="ss11.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main.Main" />
+        <item itemvalue="Application.DBContext" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.32098.37" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.32098.37" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3f1c490-4dce-49fd-b3d0-fe66ce0c042b" name="Changes" comment="" />
+      <created>1774342690016</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774342690016</updated>
+      <workItem from="1774342693166" duration="14507000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -5,38 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3f1c490-4dce-49fd-b3d0-fe66ce0c042b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entity/Bed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entity/Doctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entity/Medicine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/BedDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/DoctorDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/MedicineDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/PatientDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utility/DBContext.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson1/DBContext.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson1/TestDB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson2/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson2/MedicineDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson3/BedDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson3/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson4/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson4/PatientDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson5/business/DoctorService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson5/dao/DoctorDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson5/model/Doctor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson5/presentation/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS12/ss12/src/main/java/utility/DBContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../SS12/session12/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../SS12/session12/build.gradle" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../SS12/session12/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
@@ -113,6 +83,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -206,7 +177,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1774342690016</updated>
-      <workItem from="1774342693166" duration="14507000" />
+      <workItem from="1774342693166" duration="17551000" />
     </task>
     <servers />
   </component>
